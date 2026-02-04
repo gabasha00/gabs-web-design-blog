@@ -15,3 +15,5 @@ This is a plain text file with no markdown effects; you can just write plain tex
 You can use enter like writing in regular text editors to put space between texts.
 
 <img src="https://cdn.images.express.co.uk/img/dynamic/130/940x/secondary/Cavalier-King-Charles-Spaniel-5464056.jpg?r=1722869239639">
+
+update to make website work
