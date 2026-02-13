@@ -6,4 +6,4 @@ const eleventyNavigation = {
 ---
 # About
 
-I am a person that writes stuff.
+Page that will be updated and built upon throughout the semester; log for all of my projects.
