@@ -16,3 +16,5 @@ After I sketched this out, I just figured I would make something visually easy t
 While working on the layout, I had to look at most of the code and use the console to get used to the base code and figure out what exactly I'd need to change the most to get the desired look for what I wanted. I realized most of my editing for the home page would be happening for the .nav class in the index.css and the header and footer. 
 
 To help navigate the type of styling I'd need to initially edit to create a side navigation bar, I used <a href="https://www.w3schools.com/css/css_navbar_vertical.asp">this page</a> to help. From there, I tweaked the image size and font sizes to what I needed.
+
+I'm still figuring out how to edit the CSS so that the individual post tags all have styling!

@@ -24,7 +24,7 @@
 				<h2 class="visually-hidden">Top level navigation menu</h2>
 				<ul class="nav">
 				    <li><a href="/" class="home-link">Gabrielle's Blog</a></li>
-				    <li><img src="https://raw.githubusercontent.com/gabasha00/blog-image-links/refs/heads/main/evil-eye.JPG" alt="Artwork of girl in room" class="home-art"></li>
+				    <li><img src="https://raw.githubusercontent.com/gabasha00/blog-image-links/refs/heads/main/art-eye.jpeg" alt="Artwork of girl in room" class="home-art"></li>
 					{%- for entry in collections.all | eleventyNavigation %}
 					<li class="nav-item"><a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a> </li>
 				{%- endfor %}
